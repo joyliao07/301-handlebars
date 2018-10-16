@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(218, 218, 96);
+}
+
+div {
+  margin: 10px 5px;
+}
+
+.icon-firefox {
+  font-size: 15px;
+}
+
+img {
+  width: 100px;
+}
+  
+  /* ==========================================
+  Single-colored icons can be modified like so:
+  .icon-name {
+    font-size: 32px;
+    color: red;
+  }
+  ========================================== 
